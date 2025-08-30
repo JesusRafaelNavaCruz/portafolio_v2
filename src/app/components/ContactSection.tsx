@@ -87,7 +87,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <p className="text-gray-400 text-sm">Teléfono</p>
-                    <p className="text-white">+52 (777) 914-04-67</p>
+                    <p className="text-white">+52 (562) 126-34-17</p>
                   </div>
                 </div>
 
